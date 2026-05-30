@@ -349,6 +349,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Juego/Maquinas/Refineria/Scripts/AbrirRefineria.cs"
 "Assets/Juego/Maquinas/Refineria/Scripts/SlotRefineria.cs"
+"Assets/Juego/prueba de boton y barra de uranio/BotonFisico.cs"
+"Assets/Juego/Scripts/AlmacenEnergia.cs"
 "Assets/Juego/Scripts/Arrastre.cs"
 "Assets/Juego/Scripts/ControladorUI.cs"
 "Assets/Juego/Scripts/MaquinaRefineria.cs"
@@ -359,6 +361,7 @@
 "Assets/Juego/Scripts/Personaje/MovimientoPersonaje.cs"
 "Assets/Juego/Scripts/Refineria.cs"
 "Assets/Juego/Scripts/RocaMinable.cs"
+"Assets/Juego/Scripts/Temporal.cs"
 -langversion:9.0
 
 /deterministic
