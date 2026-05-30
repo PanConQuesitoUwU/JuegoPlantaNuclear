@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basti\\CentralNuclearTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\basti\\centralnucleartest\\assets\\juego\\scripts\\ui_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\juego\\scripts\\ui_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\basti\\centralnucleartest\\assets\\juego\\scripts\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\juego\\scripts\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\basti\\centralnucleartest\\assets\\juego\\scripts\\minerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\juego\\scripts\\minerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\basti\\centralnucleartest\\assets\\juego\\scripts\\minar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\juego\\scripts\\minar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\basti\\centralnucleartest\\assets\\juego\\scripts\\movimientopersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\juego\\scripts\\movimientopersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Minar.cs",
+              "DocumentMoniker": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\Minar.cs",
+              "RelativeDocumentMoniker": "Assets\\Juego\\Scripts\\Minar.cs",
+              "ToolTip": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\Minar.cs",
+              "RelativeToolTip": "Assets\\Juego\\Scripts\\Minar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:36:18.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI_Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\UI_Inventario.cs",
+              "RelativeDocumentMoniker": "Assets\\Juego\\Scripts\\UI_Inventario.cs",
+              "ToolTip": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\UI_Inventario.cs",
+              "RelativeToolTip": "Assets\\Juego\\Scripts\\UI_Inventario.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:10:03.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Minerales.cs",
+              "DocumentMoniker": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\Minerales.cs",
+              "RelativeDocumentMoniker": "Assets\\Juego\\Scripts\\Minerales.cs",
+              "ToolTip": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\Minerales.cs",
+              "RelativeToolTip": "Assets\\Juego\\Scripts\\Minerales.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:50:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\Inventario.cs",
+              "RelativeDocumentMoniker": "Assets\\Juego\\Scripts\\Inventario.cs",
+              "ToolTip": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\Inventario.cs",
+              "RelativeToolTip": "Assets\\Juego\\Scripts\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:47:56.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimientoPersonaje.cs",
+              "DocumentMoniker": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\MovimientoPersonaje.cs",
+              "RelativeDocumentMoniker": "Assets\\Juego\\Scripts\\MovimientoPersonaje.cs",
+              "ToolTip": "C:\\Users\\basti\\CentralNuclearTest\\Assets\\Juego\\Scripts\\MovimientoPersonaje.cs",
+              "RelativeToolTip": "Assets\\Juego\\Scripts\\MovimientoPersonaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:38:17.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

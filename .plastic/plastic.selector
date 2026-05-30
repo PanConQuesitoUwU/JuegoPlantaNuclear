@@ -1,0 +1,4 @@
+repository "CentralNuclearTest/CentralNuclearTest@4673321868446@cloud"
+  path "/"
+    br "/main"
+    co "/main"
